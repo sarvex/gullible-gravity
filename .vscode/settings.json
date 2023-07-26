@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#caf3f2",
+    "statusBar.background": "#a0eae7",
+    "statusBar.border": "#a0eae7",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#76e1dc",
+    "statusBarItem.remoteBackground": "#a0eae7",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#caf3f2"
+  },
+  "marquee.widgets.npm-stats.packageNames": ["gullible-gravity"],
+  "peacock.color": "#a0eae7"
+}

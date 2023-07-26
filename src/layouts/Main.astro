@@ -1,0 +1,17 @@
+---
+import Head from './Head.astro';
+
+import '../styles/globals.css'
+
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title = 'My Astro Blog', description = 'My musings about the Astro Framework' } = Astro.props as Props;
+---
+
+<html lang='en'>
+  <Head {title} {description} />
+  <body><slot>Default Text</slot></body>
+</html>
