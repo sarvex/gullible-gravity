@@ -11,7 +11,7 @@
     "format": "prettier --write \"src/**/*.astro\""
   },
   "dependencies": {
-    "@astrojs/tailwind": "^4.0.0",
+    "@astrojs/tailwind": "^5.0.0",
     "astro": "^2.9.3",
     "postcss": "^8.4.27",
     "postcss-preset-env": "^9.1.0",
